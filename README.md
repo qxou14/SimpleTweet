@@ -40,6 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+<br>
 I can't login to my twitter account at the beginning, but this problem was solved by restarting the emulator.
 
 ## Open-source libraries used

@@ -25,4 +25,15 @@
         android:layout_marginTop="5dp"
         android:layout_marginEnd="10dp"
         android:text="@string/tweet" />
+
+    <TextView
+        android:id="@+id/tvWordcount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/etCompose"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="23dp"
+        android:layout_toStartOf="@+id/btnTweet"
+        android:text="0/280"
+        tools:text="wordcount" />
 </RelativeLayout>
